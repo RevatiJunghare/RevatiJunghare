@@ -85,12 +85,12 @@
       </a>
       <br>React Js
     </td>
-<!--      <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#bootstrap">
-        <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="48" height="48" alt="Java" />
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" width="48" height="48" alt="Typescript" />
       </a>
-      <br>Java
-    </td> -->
+      <br>Typescript
+    </td>
 <!--      <td align="center" width="96">
       <a href="#js">
         <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="javascript" />
