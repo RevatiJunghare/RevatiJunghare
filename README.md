@@ -1,10 +1,10 @@
   <h1 align="center">
- 👋 Hi, Revati Junghare !
+ 👋 Hi, I'm Revati Junghare !
 </h1>
  
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;backend+developer;fullstack+developer" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;frontend+developer;fullstack+developer" > 
 </p>
 
 
@@ -14,14 +14,14 @@
 
 
 
-- 🔭 I’m currently working on Backend and Frontend technologies 😅
-- 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS at Masai School.
-- 💬 Ask me about Java, Spring, Hibernate, SQL, AWS
+- 🔭 I’m currently working on Frontend technologies 😅
+- 👨‍💻 I’m currently learning HTML , CSS , Javascript, React , Typescript , Redux  at Masai School.
+- 💬 Ask me about HTML , CSS , Javascript , React
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 👨‍💻 This is [My Portfolio](https://hustler-abhi.github.io/)
+- 👨‍💻 This is [My Portfolio](RevatiJunghare.github.io)
 
--  📄 This is [My Resume](https://drive.google.com/file/d/1AQuDjqK5O0mhJauKVGziQUxPInnq9uU-/view?usp=sharing)
-- 📫 How to reach me: ...*hustlerabhishek895@gmail.com*
+-  📄 This is [My Resume](https://drive.google.com/file/d/1ZGHXcDJUXLPgGVeSVCb8BYUAK_Cs_UTk/view?usp=sharing)
+- 📫 How to reach me: ...*jungharerevati804@gmail.com*
 
 
 
@@ -37,12 +37,12 @@
 
 <!--   <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary> -->
 <!--   <br/> -->
-   <a href="https://github.com/hustler-abhi"><img alt="Abhishek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hustler-abhi&custom_title=Abhishek's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/RevatiJunghare"><img alt="Revati's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RevatiJunghare&custom_title=Revati's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hustler-abhi" alt="Abhishek" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RevatiJunghare" alt="Revati" /></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -57,11 +57,11 @@
 
  <h2> 📊 Github Stats ....</h2>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hustler-abhi&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hustler-abhi&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hustler-abhi&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hustler-abhi&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hustler-abhi&theme=solarized_dark&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RevatiJunghare&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RevatiJunghare&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RevatiJunghare&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RevatiJunghare&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RevatiJunghare&theme=solarized_dark&utcOffset=8">
 	
 </p>
 
@@ -157,8 +157,8 @@
 ## 📊 My Github Stats
 
 <p align="left" style="margin-right:0px;padding-right:0px">
-<img src="https://github-readme-stats.vercel.app/api?username=hustler-abhi&theme=algolia">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hustler-abhi&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api?username=RevatiJunghare&theme=algolia">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RevatiJunghare&theme=algolia" />
 </p>
 
 
@@ -167,13 +167,13 @@
 ## Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-kumar-001846246/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+  <a href="https://www.linkedin.com/in/revati-junghare-612346179/"></a>
 
 </p>
 
 ## ❤ Views and Followers
 
-<p align='center'> <img src="https://komarev.com/ghpvc/?username=hustler-abhi&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
+<p align='center'> <img src="https://komarev.com/ghpvc/?username=RevatiJunghare&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
 
 <h2 align='left'>Thank You ❤</h2>
