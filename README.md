@@ -75,18 +75,28 @@
   <tr>
       <td align="center" width="96">
       <a href="#html5">
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="REDUX" />
+        <img src="https://img.icons8.com/color/344/amazon-web-services.png" width="48" height="48" alt="AWS" />
       </a>
-      <br>Redux
+      <br>AWS
     </td>
-    
+    <td align="center" width="96">
+      <a href="#css3">
+        <img src="https://img.icons8.com/color/344/hibernate--v1.png" width="48" height="48" alt="Hibernate" />
+      </a>
+      <br>Hibernate
+    </td>
      <td align="center" width="96">
-      <a href="#React Js">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQ6ZmsiCzSC16bStr1KjZNcIBW5hAMa1ek6xoNeSSw5wQouq_N7dQCxlxI02TIeZk1e0&usqp=CAU" width="48" height="48" alt="React Js" />
+      <a href="#bootstrap">
+        <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="48" height="48" alt="Java" />
       </a>
-      <br>React Js
+      <br>Java
     </td>
-     
+     <td align="center" width="96">
+      <a href="#js">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="javascript" />
+      </a>
+      <br>MySQL
+    </td>
 <!--      <td align="center" width="96">
       <a href="#vuejs">
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
@@ -94,7 +104,6 @@
       <br>Vue JS
     </td> -->
   </tr>
-	<tr>
    <td align="center" width="96">
       <a href="#html5">
         <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
@@ -115,7 +124,12 @@
     </td>
   </tr>
    <tr>
-      
+      <td align="center" width="96">
+      <a href="#ubuntu" >
+        <img src="https://img.icons8.com/ios-filled/344/github.png" width="48" height="48" alt="ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
       <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
