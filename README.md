@@ -179,7 +179,7 @@
 
 <h2 align='left'>Thank You ❤</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
+  <img src="https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gif" width="70%" height="65px">
 </p>	
  
 <br>
