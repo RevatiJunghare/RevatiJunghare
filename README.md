@@ -75,7 +75,7 @@
   <tr>
       <td align="center" width="96">
       <a href="#html5">
-        <img src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" width="48" height="48" alt="REDUX" />
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="REDUX" />
       </a>
       <br>Redux
     </td>
