@@ -87,7 +87,7 @@
     </td>
      <td align="center" width="96">
       <a href="#React Js">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQ6ZmsiCzSC16bStr1KjZNcIBW5hAMa1ek6xoNeSSw5wQouq_N7dQCxlxI02TIeZk1e0&usqp=CAU" width="48" height="48" alt="Java" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQ6ZmsiCzSC16bStr1KjZNcIBW5hAMa1ek6xoNeSSw5wQouq_N7dQCxlxI02TIeZk1e0&usqp=CAU" width="48" height="48" alt="React Js" />
       </a>
       <br>Java
     </td>
