@@ -75,9 +75,9 @@
   <tr>
       <td align="center" width="96">
       <a href="#html5">
-        <img src="https://img.icons8.com/color/344/amazon-web-services.png" width="48" height="48" alt="AWS" />
+        <img src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" width="48" height="48" alt="REDUX" />
       </a>
-      <br>AWS
+      <br>Redux
     </td>
     <td align="center" width="96">
       <a href="#css3">
@@ -89,7 +89,7 @@
       <a href="#React Js">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQ6ZmsiCzSC16bStr1KjZNcIBW5hAMa1ek6xoNeSSw5wQouq_N7dQCxlxI02TIeZk1e0&usqp=CAU" width="48" height="48" alt="React Js" />
       </a>
-      <br>Java
+      <br>React Js
     </td>
      <td align="center" width="96">
       <a href="#js">
