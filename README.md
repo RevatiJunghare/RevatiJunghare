@@ -3,7 +3,7 @@
 </h1>
  
 
-<p align="center">
+<p align="center" marginLeft="20px">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;frontend+developer;fullstack+developer" > 
 </p>
 
