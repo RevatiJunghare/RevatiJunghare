@@ -10,7 +10,7 @@
 
 </br> 
 
-<a href="#"><img  width="100%" height="auto" src="https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg" height="175px"/></a>
+<a href="#"><img  width="100%" height="auto" src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/roadmap-to-become-a-full-stack-developer_Image_blogs.png" height="175px"/></a>
 
 
 
