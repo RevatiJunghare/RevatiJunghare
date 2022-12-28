@@ -86,8 +86,8 @@
       <br>Hibernate
     </td>
      <td align="center" width="96">
-      <a href="#bootstrap">
-        <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="48" height="48" alt="Java" />
+      <a href="#React Js">
+        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3zWuwYa3--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdib9r9rk5j1m7oala1p.png" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
