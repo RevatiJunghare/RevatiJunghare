@@ -75,28 +75,28 @@
   <tr>
       <td align="center" width="96">
       <a href="#html5">
-        <img src="https://img.icons8.com/color/344/amazon-web-services.png" width="48" height="48" alt="AWS" />
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
-      <br>AWS
+      <br>Redux
     </td>
     <td align="center" width="96">
       <a href="#css3">
-        <img src="https://img.icons8.com/color/344/hibernate--v1.png" width="48" height="48" alt="Hibernate" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="48" height="48" alt="ReactJs" />
       </a>
-      <br>Hibernate
+      <br>React Js
     </td>
-     <td align="center" width="96">
+<!--      <td align="center" width="96">
       <a href="#bootstrap">
         <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="48" height="48" alt="Java" />
       </a>
       <br>Java
-    </td>
-     <td align="center" width="96">
+    </td> -->
+<!--      <td align="center" width="96">
       <a href="#js">
         <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="javascript" />
       </a>
       <br>MySQL
-    </td>
+    </td> -->
 <!--      <td align="center" width="96">
       <a href="#vuejs">
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
@@ -124,12 +124,12 @@
     </td>
   </tr>
    <tr>
-      <td align="center" width="96">
+<!--       <td align="center" width="96">
       <a href="#ubuntu" >
         <img src="https://img.icons8.com/ios-filled/344/github.png" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Ubuntu
-    </td>
+    </td> -->
       <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
