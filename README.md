@@ -35,7 +35,7 @@
 <img align="right"  src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 
 
-<!--   <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary> -->
+  <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary>
 <!--   <br/> -->
 <!--    <a href="https://github.com/RevatiJunghare"><img alt="Revati's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RevatiJunghare&custom_title=Revati's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/> -->
