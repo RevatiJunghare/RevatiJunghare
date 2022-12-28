@@ -53,7 +53,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
 
 
  <h2> 📊 Github Stats ....</h2>
