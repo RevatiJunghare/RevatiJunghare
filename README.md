@@ -94,6 +94,7 @@
       <br>Vue JS
     </td> -->
   </tr>
+	<tr>
    <td align="center" width="96">
       <a href="#html5">
         <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
