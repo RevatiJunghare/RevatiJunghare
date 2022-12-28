@@ -79,24 +79,14 @@
       </a>
       <br>Redux
     </td>
-    <td align="center" width="96">
-      <a href="#css3">
-        <img src="https://img.icons8.com/color/344/hibernate--v1.png" width="48" height="48" alt="Hibernate" />
-      </a>
-      <br>Hibernate
-    </td>
+    
      <td align="center" width="96">
       <a href="#React Js">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQ6ZmsiCzSC16bStr1KjZNcIBW5hAMa1ek6xoNeSSw5wQouq_N7dQCxlxI02TIeZk1e0&usqp=CAU" width="48" height="48" alt="React Js" />
       </a>
       <br>React Js
     </td>
-     <td align="center" width="96">
-      <a href="#js">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="javascript" />
-      </a>
-      <br>MySQL
-    </td>
+     
 <!--      <td align="center" width="96">
       <a href="#vuejs">
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
