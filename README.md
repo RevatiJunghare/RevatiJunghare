@@ -53,7 +53,7 @@
 
 
 
-<img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
+<!-- <img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif"> -->
 
 
  <h2> 📊 Github Stats ....</h2>
