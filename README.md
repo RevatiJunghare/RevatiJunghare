@@ -155,6 +155,13 @@
       </a>
       <br>Netlify
     </td>
+	
+	<td align="center" width="96">
+      <a href="#postman" >
+        <img src="https://authy.com/wp-content/uploads/npm-logo.png" width="48" height="48" alt="Npm" />
+      </a>
+      <br>npm
+    </td>
 
   </tr>
 </table>
