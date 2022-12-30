@@ -143,6 +143,14 @@
       </a>
       <br>Git
     </td>
+	
+	<td align="center" width="96">
+      <a href="#postman" >
+        <img src="https://authy.com/wp-content/uploads/npm-logo.png" width="48" height="48" alt="Npm" />
+      </a>
+      <br>npm
+    </td>
+	
       <td align="center"  width="96">
       <a href="#vscode">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
@@ -156,12 +164,7 @@
       <br>Netlify
     </td>
 	
-	<td align="center" width="96">
-      <a href="#postman" >
-        <img src="https://authy.com/wp-content/uploads/npm-logo.png" width="48" height="48" alt="Npm" />
-      </a>
-      <br>npm
-    </td>
+	
 
   </tr>
 </table>
