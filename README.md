@@ -98,14 +98,14 @@
       </a>
       <br>Typescript
     </td>
-	  
+<!-- 	  
 	  <td align="center" width="96">
-      <a href="#bootstrap">
+      <a href="#npm">
         <img src="https://authy.com/wp-content/uploads/npm-logo.png" width="48" height="48" alt="npm" />
       </a>
       <br>npm
     </td>
-	  
+	   -->
 	  
 <!--      <td align="center" width="96">
       <a href="#js">
@@ -113,12 +113,12 @@
       </a>
       <br>MySQL
     </td> -->
-<!--      <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
+     <td align="center" width="96">
+      <a href="#npm">
+        <img src="https://authy.com/wp-content/uploads/npm-logo.png" width="48" height="48" alt="npm" />
       </a>
-      <br>Vue JS
-    </td> -->
+      <br>npm
+    </td>
   </tr>
    <td align="center" width="96">
       <a href="#html5">
