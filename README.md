@@ -98,6 +98,15 @@
       </a>
       <br>Typescript
     </td>
+	  
+	  <td align="center" width="96">
+      <a href="#bootstrap">
+        <img src="https://authy.com/wp-content/uploads/npm-logo.png" width="48" height="48" alt="npm" />
+      </a>
+      <br>npm
+    </td>
+	  
+	  
 <!--      <td align="center" width="96">
       <a href="#js">
         <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="javascript" />
@@ -144,12 +153,7 @@
       <br>Git
     </td>
 	
-	<td align="center" width="96">
-      <a href="#postman" >
-        <img src="https://authy.com/wp-content/uploads/npm-logo.png" width="48" height="48" alt="Npm" />
-      </a>
-      <br>npm
-    </td>
+	
 	
       <td align="center"  width="96">
       <a href="#vscode">
