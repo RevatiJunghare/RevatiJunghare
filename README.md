@@ -113,12 +113,12 @@
       </a>
       <br>MySQL
     </td> -->
-     <td align="center" width="96">
+<!--      <td align="center" width="96">
       <a href="#npm">
         <img src="https://authy.com/wp-content/uploads/npm-logo.png" width="48" height="48" alt="npm" />
       </a>
       <br>npm
-    </td>
+    </td> -->
   </tr>
    <td align="center" width="96">
       <a href="#html5">
