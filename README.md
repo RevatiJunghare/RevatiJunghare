@@ -107,12 +107,12 @@
     </td>
 	   -->
 	  
-     <td align="center" width="96">
+<!--      <td align="center" width="96">
       <a href="#js">
         <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="javascript" />
       </a>
       <br>MySQL
-    </td>
+    </td> -->
 <!--      <td align="center" width="96">
       <a href="#npm">
         <img src="https://authy.com/wp-content/uploads/npm-logo.png" width="48" height="48" alt="npm" />
@@ -138,7 +138,14 @@
       </a>
       <br>JavaScript
     </td>
+     <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://img.icons8.com/color/344/javascript--v1.png" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>JavaScript
+    </td>
   </tr>
+  
    <tr>
       <td align="center" width="96">
       <a href="#ubuntu" >
