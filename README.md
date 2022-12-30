@@ -155,7 +155,7 @@
 	
 	
 	
-      <td align="center"  width="96">
+<!--       <td align="center"  width="96">
       <a href="#vscode">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
       </a>
@@ -166,11 +166,8 @@
         <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" width="48" height="48" alt="Git" />
       </a>
       <br>Netlify
-    </td>
-	
-	
-
-  </tr>
+    </td> -->
+</tr>
 </table>
 
 
