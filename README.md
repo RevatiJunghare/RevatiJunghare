@@ -142,9 +142,9 @@
    <tr>
       <td align="center" width="96">
       <a href="#ubuntu" >
-        <img src="https://img.icons8.com/ios-filled/344/github.png" width="48" height="48" alt="ubuntu" />
+        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" width="48" height="48" alt="ubuntu" />
       </a>
-      <br>Ubuntu
+      <br>Netlify
     </td>
       <td align="center" width="96">
       <a href="#git" >
