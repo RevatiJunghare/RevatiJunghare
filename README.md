@@ -80,6 +80,12 @@
       </a>
       <br>Redux
     </td>
+	  <td align="center" width="96">
+      <a href="#html5">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width="48" height="48" alt="Vite" />
+      </a>
+      <br>Vite
+    </td>
     <td align="center" width="96">
       <a href="#css3">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="48" height="48" alt="ReactJs" />
