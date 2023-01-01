@@ -4,7 +4,7 @@
  
 
 <p align="center" marginLeft="50px">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;frontend+developer;fullstack+developer" > 
+ <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;frontend+developer;fullstack+developer" > 
 </p>
 
 
