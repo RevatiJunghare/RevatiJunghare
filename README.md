@@ -32,7 +32,7 @@
 <!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 
 
-<img align="right"  src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
+<img align="right"  src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47fklx5ykmro4e4phgv5xp0y597wwzq4c3tv66cnqi&rid=giphy.gif&ct=g">
 
 
   <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary>
