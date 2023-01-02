@@ -204,7 +204,7 @@
 
 <h2 align='left'>Thank You ❤</h2>
 <p align="center">
-  <img src="https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gif" width="70%" height="65px">
+  <img src="https://media1.giphy.com/media/3o6ozuHcxTtVWJJn32/giphy.gif?cid=ecf05e47ezmv4w761vf27ec5mcg1mh8973bf3vonkc8ma1ic&rid=giphy.gif&ct=g" width="70%" height="65px">
 </p>	
  
 <br>
