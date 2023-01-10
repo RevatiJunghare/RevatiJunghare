@@ -193,7 +193,7 @@
 ## Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/revati-junghare-612346179/"></a>
+  <a href="https://www.linkedin.com/in/revati-junghare-612346179/">Linkedin</a>
 
 </p>
 
