@@ -20,7 +20,7 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 👨‍💻 This is [My Portfolio](https://revatijunghare.github.io/)
 
--  📄 This is [My Resume](https://drive.google.com/file/d/1ZGHXcDJUXLPgGVeSVCb8BYUAK_Cs_UTk/view?usp=sharing)
+-  📄 This is [My Resume](https://drive.google.com/file/d/1FsN6MEnK9_JaAFxSQJpQQ2EQYCoJs_7f/view?usp=sharing)
 - 📫 How to reach me: ...*jungharerevati804@gmail.com*
 
 
