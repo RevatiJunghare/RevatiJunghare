@@ -1,5 +1,5 @@
   <h1 align="center">
- 👋 Hi, I'm Revati Junghare !
+    Revati Junghare.
 </h1>
  
 
