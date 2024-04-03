@@ -14,8 +14,8 @@
 
 
 
-- 🔭 I’m currently working on Frontend technologies 😅
-- 👨‍💻 I having knowledge of HTML , CSS , Javascript, React , Typescript , Redux, Node.js, Mongodb, Express.js.
+- 🔭 Currently working on Frontend technologies 😅
+- 👨‍💻 Having knowledge of HTML , CSS , Javascript, React , Typescript , Redux, Node.js, Mongodb, Express.js.
 - 💬 Ask me about HTML , CSS , Javascript , React, Typescript , Redux, Node.js, Mongodb, Express.js
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 👨‍💻 This is [My Portfolio](https://revatijunghare.github.io/)
